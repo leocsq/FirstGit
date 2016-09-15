@@ -7,3 +7,5 @@ for i in range(1,3):
 print("practice makes perfect")
   
 print("first try in person")
+
+print("first try by csq")
